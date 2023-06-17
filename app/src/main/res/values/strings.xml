@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="MyTasks">Мои дела</string>
+    <string name="done">Выволнено — </string>
+    <string name="buy_smth">Купить что-то</string>
+    <string name="new_">Новое</string>
+    <string name="save">Coхранить</string>
+    <string name="what_to_do">Что надо сделать...</string>
+    <string name="Importance">Важность</string>
+    <string name="no">нет</string>
+    <string name="make_to">Сделать до</string>
+    <string name="_2_2021">2 июня 2021</string>
+    <string name="Delete">Удалить</string>
+    <string name="Low">Низкий</string>
+    <string name="High">!! Высокий</string>
+    <string name="No">Нет</string>
+    <string name="Ready">Готово</string>
+    <string name="Cancel">Отмена</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="MoveUp">Верх</string>
+    <string name="MoveDown">Вниз</string>
+
+    <string name="date_of_create">Дата создания</string>
+    <string name="date_of_change">Дата изменения</string>
+    <string name="deadline">Дедлайн</string>
+</resources>
